@@ -1,0 +1,2 @@
+rootProject.name = "nemov-tz"
+
